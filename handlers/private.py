@@ -31,7 +31,7 @@ async def start(_, message: Message):
                         "Sohbet Grubu 💬", url="https://t.me/duslersokagii"
                     ),
                     InlineKeyboardButton(
-                        "Destek Ekibi 🔰", url="https://t.me/MoolRehber/7"
+                        "Destek Ekibi 🔰", url="https://t.me/magandadestek"
                     )
                 ]
             ]
