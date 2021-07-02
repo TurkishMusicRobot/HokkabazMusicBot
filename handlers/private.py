@@ -28,7 +28,7 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubu 💬", url="https://t.me/duslersokagii"
+                        "Sohbet Grubu 💬", url="https://t.me/dsailesi"
                     ),
                     InlineKeyboardButton(
                         "Destek Ekibi 🔰", url="https://t.me/magandadestek"
