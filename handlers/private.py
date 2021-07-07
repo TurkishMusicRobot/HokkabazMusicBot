@@ -19,19 +19,19 @@ async def start(_, message: Message):
 💠 /basla - __Şarkıyı devam ettirir.__
 💠 /gec - __Diğer şarkıya geçer.__
 💠 /kapat - __Botu kapatır.__
-💠 /sarkiara - __Şarkı aratır.__
+💠 /sarkibul - __Şarkı aratır.__
 
-** 🤖 Editor By @magandasahip**
+**🤖 Editor By @metefml**
 
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubu 💬", url="https://t.me/dsailesi"
+                        "Sohbet Grubu 💬", url="https://t.me/gunostaria"
                     ),
                     InlineKeyboardButton(
-                        "Destek Ekibi 🔰", url="https://t.me/magandadestek"
+                        "Destek Ekibi 🔰", url="https://t.me/gunostariadestek"
                     )
                 ]
             ]
