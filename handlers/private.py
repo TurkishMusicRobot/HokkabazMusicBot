@@ -21,17 +21,17 @@ async def start(_, message: Message):
 💠 /kapat - __Botu kapatır.__
 💠 /sarkibul - __Şarkı aratır.__
 
-**🤖 Editor By @metefml**
+**🤖 Developer By @Zep_Unb**
 
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubu 💬", url="https://t.me/gunostaria"
+                        "Sohbet Grubu 💬", url="https://t.me/ms_sohbet"
                     ),
                     InlineKeyboardButton(
-                        "Destek Ekibi 🔰", url="https://t.me/gunostariadestek"
+                        "Müzik Kanalı 🎶", url="https://t.me/akarsumuzik"
                     )
                 ]
             ]
