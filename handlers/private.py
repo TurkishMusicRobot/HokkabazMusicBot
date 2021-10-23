@@ -28,10 +28,10 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Sohbet Grubu 💬", url="https://t.me/ms_sohbet"
+                        "Bot Yaptırmak İçin 🤖", url="https://t.me/Zep_Unb"
                     ),
                     InlineKeyboardButton(
-                        "Müzik Kanalı 🎶", url="https://t.me/akarsumuzik"
+                        "Destek Kanalı 🔰", url="https://t.me/MoolRehber"
                     )
                 ]
             ]
